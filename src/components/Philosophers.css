@@ -1,5 +1,8 @@
 .philosopher-container {
-  margin: 2rem;
-	padding: 1rem;
-	border: solid black 2px;
+	text-align: center;
+	margin: 1rem;
+}
+
+img {
+	border-radius: 3px;
 }
